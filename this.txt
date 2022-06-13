@@ -1,0 +1,36 @@
+First open github.com in browser
+
+create new repository
+
+Then come to project folder in computer 
+In root path of your project open command(terminal) [type cmd and enter]
+
+For global configuration of git 
+git config --global user.email "sapkotakaru@gmail.com"
+git config --global user.user "sapkotakaruna"
+
+then follow the instructions
+
+git init
+
+this will add speccific file
+git add this.txt
+
+if you want to add all the file then 
+
+git add .
+
+Now, your files are ready to commit 
+
+git commit -m "Your Comment"
+
+git branch -M main
+
+git remote add origin https://github.com/sapkotakaruna/my-project.git
+
+git push -u origin main
+
+ 
+
+
+
